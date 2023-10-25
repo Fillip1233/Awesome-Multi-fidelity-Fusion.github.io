@@ -1,9 +1,9 @@
 name: Awesome AI for EDA
 title: Awesome AI for EDA
-url: https://fillip1233.github.io/Awesome-Multi-fidelity-Fusion.github.io/
+url: https://fillip1233.github.io/
 description: This is a curated paper list of existing Artificial Intelligence (AI) for Electronic Design Automation (EDA) studies.
 destination: ./_site
-repository: Fillip1233/Awesome-Multi-fidelity-Fusion.github.io
+repository: Fillip1233/Fillip1233.github.io
 twitter: joyg_phd
 lsi: false
 port: 4000
