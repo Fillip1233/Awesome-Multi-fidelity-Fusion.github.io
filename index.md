@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Awesome AI for EDA
+title: Awesome Multi-fidelity Fusion
 ---
 
 ---

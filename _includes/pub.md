@@ -14,7 +14,7 @@
 1.
 </td>
 <td>
-    GAR: Generalized Autoregression for Multi-Fidelity Fusion [<a href='https://openreview.net/forum?id=aLNWp0pn1Ij' target='_blank'>paper</a>] [<a href='https://nips.cc/media/neurips-2022/Slides/55046_uubcAyK.pdf' target='_blank'>paper</a>]<br>
+    GAR: Generalized Autoregression for Multi-Fidelity Fusion [<a href='https://openreview.net/forum?id=aLNWp0pn1Ij' target='_blank'>paper</a>] [<a href='https://nips.cc/media/neurips-2022/Slides/55046_uubcAyK.pdf' target='_blank'>slides</a>]<br>
     <em>Yuxin&nbsp;Wang, Zheng&nbsp;Xing, and WEI&nbsp;W.&nbsp;XING</em><br>
     NeurlPS 2022  <br>
     
@@ -27,7 +27,7 @@
 2.
 </td>
 <td>
-    Deep coregionalization for the emulation of simulation-based spatial-temporal fields [<a href='hhttps://www.sciencedirect.com/science/article/pii/S0021999120307580' target='_blank'>paper</a>]<br>
+    Deep coregionalization for the emulation of simulation-based spatial-temporal fields [<a href='hhttps://www.sciencedirect.com/science/article/pii/S0021999120307580' target='_blank'>paper</a>] <br>
     <em>Wei&nbsp;W.Xing, Robert&nbsp;M.Kirby, and Shandian&nbsp;Zhe</em><br>
     computational 2021  <br>
     
