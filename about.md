@@ -19,41 +19,9 @@ categories_publications:
   name: "All publications"
   categories:
     -
-      heading: "High Level Synthesis"
-      file: hls.bib
-    -
-      heading: "Logic Synthesis"
-      file: logicSyn.bib
-    -
-      heading: "Circuit Verification"
-      file: circuit.bib
-    -
-      heading: "Placement"
-      file: place.bib
-    -
-      heading: "Clock Tree Synthesis"
-      file: CTS.bib
-    -
-      heading: "Routing"
-      file: routing.bib
-    -
-      heading: "Timing"
-      file: timing.bib
-    -
-      heading: "Layout Verification"
-      file: layoutVer.bib
-    -
-      heading: "Mask Optimization"
-      file: opc.bib
-    -
-      heading: "Analog Layout Synthesis"
-      file: analog.bib
-    -
-      heading: "Testing"
-      file: testing.bib
-    -
-      heading: "Dataset and Tools"
-      file: data.bib
+      heading: "Multi fidelity Fusion"
+      file: Multi-fidelity-Fusion.bib
+    
 ```
 
 ## The Team
