@@ -1,7 +1,7 @@
 name: Awesome Multi-fidelity Fusion
 title: Awesome Multi-fidelity Fusion
 url: https://fillip1233.github.io/
-description: This is a curated paper list of existing Artificial Intelligence (AI) for Electronic Design Automation (EDA) studies.
+description: This is a curated paper list of existing Multi-fidelity Fusion method for Electronic Design Automation (EDA) studies.
 destination: ./_site
 repository: Fillip1233/Fillip1233.github.io
 twitter: joyg_phd
@@ -14,7 +14,7 @@ kramdown:
   syntax_highlighter: rouge
 permalink: pretty
 #seo
-tagline: A curated paper list of AI for EDA | Awesome AI for EDA | ai4eda | awesome-ai4eda | VLSI |  Artificial Intelligence | Machine Learning | Deep Learning | EDA | ML | Guojin Chen | AI | CUHK | CSE | CS
+tagline: A curated paper list of  EDA | Awesome Multi-fidelity Fusion | VLSI |  Artificial Intelligence | Machine Learning | Deep Learning | ML | AI | CUHK | CSE | CS
 #paginate: 5
 plugins:
   - jekyll-sitemap

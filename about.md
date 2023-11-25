@@ -20,7 +20,16 @@ categories_publications:
   categories:
     -
       heading: "Multi fidelity Fusion"
-      file: Multi-fidelity-Fusion.bib
+      file: Multi-fidelity_Fusion.bib
+    -
+      heading: "Bayesian optimization"
+      file: Bayesian_optimization.bib
+    -
+      heading: "Uncertainty analysis"
+      file: uncertainty_analysis.bib
+    -
+      heading: "Surrogate modeling"
+      file: surrogate_modeling.bib
     
 ```
 
