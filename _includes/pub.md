@@ -74,3 +74,90 @@
 </tr>
 
 </table>
+
+## <i class="fa fa-chevron-right"></i> Bayesian optimization
+
+<h3></h3>
+<table class="table table-hover">
+
+<tr id="tr-AISTATS" >
+<td align='right'>
+1.
+</td>
+<td>
+    A General Framework for Multi-fidelity Bayesian Optimization with Gaussian Processes [<a href='https://arxiv.org/abs/1811.00755' target='_blank'>paper</a>]<br>
+    <em>Jialin&nbsp;Song, Yuxin&nbsp;Chen, and Yisong&nbsp;Yue</em><br>
+    Artificial Intelligence and Statistics Conference 2018  <br>
+    
+</td>
+</tr>
+
+
+<tr id="tr-Advances_in_neural_information_processing_systems" >
+<td align='right'>
+2.
+</td>
+<td>
+    Multi-Information Source Optimization [<a href='https://arxiv.org/abs/1603.00389' target='_blank'>paper</a>]<br>
+    <em>Matthias&nbsp;Poloczek, Jialei&nbsp;Wang, and Peter&nbsp;I.&nbsp;Frazier</em><br>
+    Advances in neural information processing systems 2017  <br>
+    
+</td>
+</tr>
+
+</table>
+
+
+
+## <i class="fa fa-chevron-right"></i> Uncertainty analysis
+
+<h3></h3>
+<table class="table table-hover">
+
+<tr id="tr-Energy_and_AI" >
+<td align='right'>
+1.
+</td>
+<td>
+    Greedy nonlinear autoregression for multifidelity computer models at different scales [<a href='https://www.sciencedirect.com/science/article/pii/S2666546820300124' target='_blank'>paper</a>]<br>
+    <em>W.&nbsp;Xing, M.&nbsp;Razi, R.&nbsp;M.&nbsp;Kirby, K.&nbsp;Sun, and A.&nbsp;A.&nbsp;Shah</em><br>
+    Energy and AI 2020  <br>
+    
+</td>
+</tr>
+
+
+<tr id="tr-Journal_of_Computational_Physicse" >
+<td align='right'>
+2.
+</td>
+<td>
+    Multi-fidelity Gaussian process regression for prediction of random fields [<a href='https://www.sciencedirect.com/science/article/pii/S0021999117300633' target='_blank'>paper</a>]<br>
+    <em>Lucia&nbsp;Parussini, Daniele&nbsp;Venturi, Paris&nbsp;Perdikaris, and George&nbsp;E&nbsp;Karniadakis</em><br>
+    Journal of Computational Physicse 2017  <br>
+    
+</td>
+</tr>
+
+</table>
+
+
+
+## <i class="fa fa-chevron-right"></i> Surrogate modeling
+
+<h3></h3>
+<table class="table table-hover">
+
+<tr id="tr-AISTATS" >
+<td align='right'>
+1.
+</td>
+<td>
+    Multi-Fidelity High-Order Gaussian Processes for Physical Simulation [<a href='https://arxiv.org/abs/2006.04972' target='_blank'>paper</a>]<br>
+    <em>Zheng&nbsp;Wang, Wei&nbsp;Xing, Robert&nbsp;Kirby, and Shandian&nbsp;Zhe</em><br>
+    Artificial Intelligence and Statistics Conference 2020  <br>
+    
+</td>
+</tr>
+
+</table>
