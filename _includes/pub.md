@@ -161,3 +161,56 @@
 </tr>
 
 </table>
+
+## <i class="fa fa-chevron-right"></i> Review
+
+<h3></h3>
+<table class="table table-hover">
+
+<tr id="tr-arxiv" >
+<td align='right'>
+1.
+</td>
+<td>
+    Review of multi-fidelity models [<a href='https://arxiv.org/abs/1609.07196' target='_blank'>paper</a>]<br>
+    <em>M.&nbsp;Giselle&nbsp;Fernández-Godino, Chanyoung&nbsp;Park, Nam-Ho&nbsp;Kim, and Raphael&nbsp;T.&nbsp;Haftka</em><br>
+    arxiv 2023  <br>
+    
+</td>
+</tr>
+
+
+<tr id="tr-SIAM_Review" >
+<td align='right'>
+2.
+</td>
+<td>
+    Survey of Multifidelity Methods in Uncertainty Propagation, Inference, and Optimization [<a href='https://epubs.siam.org/doi/10.1137/16M1082469' target='_blank'>paper</a>]<br>
+    <em>B.&nbsp;Peherstorfer, K.&nbsp;Willcox, and M.&nbsp;Gunzburger</em><br>
+    SIAM Review 2018  <br>
+    
+</td>
+</tr>
+
+</table>
+
+
+
+## <i class="fa fa-chevron-right"></i> TO_be_classify
+
+<h3></h3>
+<table class="table table-hover">
+
+<tr id="tr-SIAM" >
+<td align='right'>
+1.
+</td>
+<td>
+    Bayesian Analysis of Hierarchical Multifidelity Codes [<a href='https://epubs.siam.org/doi/10.1137/120884122' target='_blank'>paper</a>]<br>
+    <em>Loic&nbsp;Le&nbsp;Gratiet</em><br>
+    SIAM/ASA Journal on Uncertainty Quantification 2013  <br>
+    
+</td>
+</tr>
+
+</table>
